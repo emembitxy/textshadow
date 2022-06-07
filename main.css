@@ -1,0 +1,50 @@
+h1{
+	text-shadow:-10px -10px 10px rgb(255,0,0), 10px 10px 10px rgb(255,0,0);
+
+}
+h1:hover{
+	text-shadow:-10px -10px 10px rgb(0,255,0), 10px 10px 10px rgb(0,255,0);
+
+	}
+
+div{
+	background-color:rgba(100,50,100,50);
+	max-height:100vh;
+	max-width:75%;
+	margin:50px;
+	padding:30px;
+}
+div:hover{
+	box-shadow:-20px -20px 20px 20px  black, 20px 20px 20px 20px black;
+}
+p{
+	line-height:1cm;
+}
+a{
+	color:#ffffff;
+	text-decoration:none;
+
+}
+a:hover{
+	text-shadow:-10px -10px 10px teal , 10px 10px 10px teal;
+}
+#new{
+	visibility:hidden;
+}
+
+#class{
+	background-color:pink;
+	max-height:75vh;
+}
+#class:hover{
+	box-shadow:-20px -20px 20px 20px purple, 20px 20px 20px 20px purple;
+}
+h2{
+	text-shadow:-20px -20px 20px purple, 20px 20px 20px purple;
+
+}
+h2:hover{
+	text-shadow:-20px -20px 20px teal, 20px 20px 20px blue;
+
+
+}
